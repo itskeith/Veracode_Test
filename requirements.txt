@@ -1,1 +1,13 @@
-json
+Pandas
+Numpy
+Plotly
+Openpyxl
+Matplotlib
+Scipy
+Scikit-learn
+Seaborn
+Torch
+TensorFlow
+Statsmodels
+LightGBM
+XGBoost
